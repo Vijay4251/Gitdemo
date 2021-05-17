@@ -3,8 +3,13 @@ package com.Gitdemo;
 public class App {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("hello world");
 
+	}
+
+	public void addedMethod()
+	{
+		System.out.println("new method");
 	}
 
 }
